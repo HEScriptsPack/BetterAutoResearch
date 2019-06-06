@@ -1,0 +1,28 @@
+{
+  "name": "betterautoresearch",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hescriptspack/betterautoresearch.git"
+  },
+  "author": "Logfro",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hescriptspack/betterautoresearch/issues"
+  },
+  "homepage": "https://github.com/hescriptspack/betterautoresearch#readme",
+  "dependencies": {
+    "anticaptcha": "^1.0.6",
+    "chromedriver": "^74.0.0",
+    "parse-duration": "^0.1.1",
+    "selenium-webdriver": "^4.0.0-alpha.1"
+  },
+  "devDependencies": {
+    "@types/selenium-webdriver": "^4.0.0"
+  }
+}

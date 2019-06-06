@@ -1,0 +1,8 @@
+{
+    "apikey": "ANTICAPTCHA_API_KEY",
+    "captchaType": "anticaptcha",
+    "username": "Logfro",
+    "password": "PASSWORD",
+    "softwareName": "Logfro thx you - Low MB.vminer",
+    "deleteOld": false
+}
